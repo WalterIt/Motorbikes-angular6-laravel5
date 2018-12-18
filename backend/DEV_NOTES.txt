@@ -48,3 +48,14 @@ Let's generate the secret. Still in the Terminal window, type the following comm
 The previous command will generate a secret key on your .env file, and will look something like the following line:
 JWT_SECRET=McR1It4Bw9G8jU1b4XJhDMeZs4Q5Zwear
 At this point, we have successfully installed jwt-auth, but we need to take some more steps to make our API secure.
+
+
+#############################################################################################
+
+git checkout -b backend_2/Models-Migrations-Controllers-Routes
+
+#############################################################################################
+
+git checkout -b backend_3/Validation-Erros_Msg-Token-Resources
+
+#############################################################################################
